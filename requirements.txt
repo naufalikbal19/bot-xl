@@ -1,4 +1,2 @@
 requests
-os
 schedule
-time
